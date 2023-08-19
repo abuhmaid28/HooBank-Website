@@ -1,0 +1,47 @@
+.bottom-40 {
+  bottom: 40%;
+}
+
+.bottom-20 {
+  bottom: 20%;
+}
+
+.left-n50 {
+  left: -50%;
+}
+
+.right-20 {
+  right: 20%;
+}
+
+.h-80 {
+  height: 80%
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.w-40 {
+  width: 40%;
+}
+
+.w-60 {
+  width: 60%;
+}
+
+.w-85 {
+  width: 85%;
+}
+
+.h-35 {
+  height: 35%;
+}
+
+.w-content {
+  width: fit-content;
+}
+
+.fs-18 {
+  font-size: 18px;
+}
